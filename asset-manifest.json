@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shunshun-lab/youtube-alarm-app/static/css/main.c800aa68.css",
-    "main.js": "/shunshun-lab/youtube-alarm-app/static/js/main.c2b4d281.js",
-    "static/js/453.3b9ef864.chunk.js": "/shunshun-lab/youtube-alarm-app/static/js/453.3b9ef864.chunk.js",
-    "index.html": "/shunshun-lab/youtube-alarm-app/index.html",
-    "main.c800aa68.css.map": "/shunshun-lab/youtube-alarm-app/static/css/main.c800aa68.css.map",
-    "main.c2b4d281.js.map": "/shunshun-lab/youtube-alarm-app/static/js/main.c2b4d281.js.map",
-    "453.3b9ef864.chunk.js.map": "/shunshun-lab/youtube-alarm-app/static/js/453.3b9ef864.chunk.js.map"
+    "main.css": "/youtube-alarm-app/static/css/main.c800aa68.css",
+    "main.js": "/youtube-alarm-app/static/js/main.2ddac42a.js",
+    "static/js/453.3b9ef864.chunk.js": "/youtube-alarm-app/static/js/453.3b9ef864.chunk.js",
+    "index.html": "/youtube-alarm-app/index.html",
+    "main.c800aa68.css.map": "/youtube-alarm-app/static/css/main.c800aa68.css.map",
+    "main.2ddac42a.js.map": "/youtube-alarm-app/static/js/main.2ddac42a.js.map",
+    "453.3b9ef864.chunk.js.map": "/youtube-alarm-app/static/js/453.3b9ef864.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c800aa68.css",
-    "static/js/main.c2b4d281.js"
+    "static/js/main.2ddac42a.js"
   ]
 }
