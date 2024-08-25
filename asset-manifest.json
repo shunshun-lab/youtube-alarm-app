@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shunshun-lab/youtube-alarm-app/static/css/main.c800aa68.css",
+    "main.js": "/shunshun-lab/youtube-alarm-app/static/js/main.c2b4d281.js",
+    "static/js/453.3b9ef864.chunk.js": "/shunshun-lab/youtube-alarm-app/static/js/453.3b9ef864.chunk.js",
+    "index.html": "/shunshun-lab/youtube-alarm-app/index.html",
+    "main.c800aa68.css.map": "/shunshun-lab/youtube-alarm-app/static/css/main.c800aa68.css.map",
+    "main.c2b4d281.js.map": "/shunshun-lab/youtube-alarm-app/static/js/main.c2b4d281.js.map",
+    "453.3b9ef864.chunk.js.map": "/shunshun-lab/youtube-alarm-app/static/js/453.3b9ef864.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c800aa68.css",
+    "static/js/main.c2b4d281.js"
+  ]
+}
