@@ -2,7 +2,7 @@
   "name": "youtube-alarm-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/shunshun-lab/youtube-alarm-app",
+  "homepage": "https://shunshun-lab.github.io/youtube-alarm-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
